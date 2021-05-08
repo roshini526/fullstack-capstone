@@ -1,2 +1,2 @@
 # fullstack-capstone
-student connect web application
+Student-Connect web application
